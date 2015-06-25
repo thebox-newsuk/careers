@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
+title:       Careers
 email:       your_email@example.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Details concering the build of the News UK Careers online presence."
 baseurl:     "/careers"
 #url:         "http://pixyll.com"
 
