@@ -570,8 +570,10 @@ Copyright (c) 2014 Daniel Eden
 .svg-wrapper{
 	text-align:center;
 	margin: 0 auto;
+	
 }
 .smallbox {
+	display: inline-block;
 	margin: 0 auto;
 	width: 3em;
 }
