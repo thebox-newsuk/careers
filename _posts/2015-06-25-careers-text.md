@@ -1,5 +1,9 @@
 ---
-published: true
+layout:     post
+title:      So, What is Jekyll?
+date:       2015-06-26 12:32:18
+summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
+categories: jekyll pixyll
 ---
 
 
