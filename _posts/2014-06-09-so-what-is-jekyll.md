@@ -5,7 +5,7 @@ date:       2014-06-09 12:32:18
 summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
 categories: jekyll pixyll
 ---
- <iframe src="https://player.vimeo.com/video/116765877" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 Jekyll is a tool for transforming your plain text into static websites and 
 blogs. It is simple, static, and blog-aware. Jekyll uses the 
 [Liquid](http://docs.shopify.com/themes/liquid-basics) templating
@@ -15,3 +15,5 @@ and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
 It also ties in nicely to [Github Pages](https://pages.github.com/).
 
 Learn more about Jekyll on their [website](http://jekyllrb.com/).
+
+ <iframe src="https://player.vimeo.com/video/116765877" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
